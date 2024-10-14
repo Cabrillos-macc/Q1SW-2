@@ -1,0 +1,39 @@
+#container1{
+	background-color: #b39dbf;
+	text-align: center;
+	padding: 3px;
+	border-radius: 20px;
+}
+.container2{
+	background-color: #bca3c9;
+	width: 320px;
+	padding: 20px;
+	border-radius: 40px;
+	margin:  auto;
+	box-shadow: 2px 2px 5px rgba(53, 28, 66, 1.0);
+}
+
+body{
+	background-image: url(https://i.pinimg.com/originals/65/1e/df/651edf722dd97391eeb7f8857ae2c91c.gif);
+	Background-repeat: no repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+
+}
+#submit{
+	border-radius: 15px;
+	background-color: #f1e1fa;
+	color: #2d103d;
+	font-size: 22px;
+	cursor: pointer;
+
+}
+
+label{
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #7d449c;
+
+}
+
